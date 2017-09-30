@@ -1,0 +1,13 @@
+#wrapper{
+    margin: 0px auto;
+    width: 1000px;
+    height: 1000px;
+}
+
+#searchbar{
+    height: 100px;
+}
+
+#results{
+    height: 900px;
+}
